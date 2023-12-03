@@ -1,6 +1,6 @@
 # Epic AnimeVault - Open Source Anime Information Aggregator
 
-![Epic AnimeVault](public/ScreenShots/epic_animevault.png)
+![Epic AnimeVault](public/ScreenShots/EpicAnimeVault.png)
 
 ## Overview
 
