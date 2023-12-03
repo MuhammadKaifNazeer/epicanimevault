@@ -1,4 +1,4 @@
-# Epic AnimeVault - Open Source Anime Information Aggregator
+# Epic AnimeVault - Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
 
 ![Epic AnimeVault](public/ScreenShots/EpicAnimeVault.png)
 
