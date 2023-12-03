@@ -32,8 +32,11 @@ Epic AnimeVault is an open-source project that leverages the Shikimori API to ag
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/MuhammadKaifNazeer/epicanimevault
-    ```
+    git clone https://github.com/MuhammadKaifNazeer/epicanimevault.git
+
+    ```git remote set-url origin https://github.com/MuhammadKaifNazeer/epicanimevault.git
+
+
 
 2. Navigate to the project directory:
 
